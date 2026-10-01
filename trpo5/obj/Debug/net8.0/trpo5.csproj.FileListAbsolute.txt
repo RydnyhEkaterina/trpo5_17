@@ -1,0 +1,14 @@
+D:\VisualProject\trpo5\trpo5\bin\Debug\net8.0\trpo5.exe
+D:\VisualProject\trpo5\trpo5\bin\Debug\net8.0\trpo5.deps.json
+D:\VisualProject\trpo5\trpo5\bin\Debug\net8.0\trpo5.runtimeconfig.json
+D:\VisualProject\trpo5\trpo5\bin\Debug\net8.0\trpo5.dll
+D:\VisualProject\trpo5\trpo5\bin\Debug\net8.0\trpo5.pdb
+D:\VisualProject\trpo5\trpo5\obj\Debug\net8.0\trpo5.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualProject\trpo5\trpo5\obj\Debug\net8.0\trpo5.AssemblyInfoInputs.cache
+D:\VisualProject\trpo5\trpo5\obj\Debug\net8.0\trpo5.AssemblyInfo.cs
+D:\VisualProject\trpo5\trpo5\obj\Debug\net8.0\trpo5.csproj.CoreCompileInputs.cache
+D:\VisualProject\trpo5\trpo5\obj\Debug\net8.0\trpo5.dll
+D:\VisualProject\trpo5\trpo5\obj\Debug\net8.0\refint\trpo5.dll
+D:\VisualProject\trpo5\trpo5\obj\Debug\net8.0\trpo5.pdb
+D:\VisualProject\trpo5\trpo5\obj\Debug\net8.0\trpo5.genruntimeconfig.cache
+D:\VisualProject\trpo5\trpo5\obj\Debug\net8.0\ref\trpo5.dll
